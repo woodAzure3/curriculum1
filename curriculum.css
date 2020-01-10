@@ -1,0 +1,46 @@
+
+h3 {
+  background-color: grey;
+  color: darkgrey;
+  font-size: 130%;
+  font-style: italic;
+}
+
+p {
+  background-color: grey;
+}
+
+em {
+  color: grey;
+  font-style: normal;
+  font-weight: bold;
+}
+
+strong {
+  color: blue;
+  font-weight: normal;
+}
+
+address {
+  background-color: white;
+  font-weight: bold;
+  text-align: right;
+}
+body {
+  background-color: whitesmoke;
+  text-align: justify;
+}
+
+h1 {
+  color: #333333;
+  font-size: 200%;
+  text-align: center;
+ 
+}
+
+h2 {
+  background-color:lightskyblue;
+  color: darkgrey;
+  font-size: 200%;
+  text-decoration: underline;
+}
